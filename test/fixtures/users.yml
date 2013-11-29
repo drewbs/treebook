@@ -1,7 +1,5 @@
 andrew:
-	first_name: "Andrew"
-	last_name: "Younge"
-	email: "atyounge@gmail.com"
-	profile_name: "drewbs"
-	password: "password"
-	password_confirmation: "password"
+ first_name: "Andrew"
+ last_name: "Younge"
+ email: "atyounge@gmail.com"
+ profile_name: "drewbs"
